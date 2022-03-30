@@ -37,11 +37,11 @@ By exploring the source code you will see
 * [Plotly](https://plotly.com/) - provides graphing, analytics, and statistics tools, as well as scientific graphing libraries for Python, R and other languages.
 
 
-Libraries were used in a [Conda3](https://docs.conda.io/en/latest/) environment using python 3.10.4
+Libraries were used in a [Anaconda3](https://docs.conda.io/en/latest/) environment using python 3.10.4
 
 ## Installation
 
-Conda3: [Installation](https://docs.anaconda.com/anaconda/install/index.html)
+Anaconda3: [Installation](https://docs.anaconda.com/anaconda/install/index.html)
 
 pandas:
 ```
@@ -66,7 +66,7 @@ conda install -c anaconda plotly
 ```
 umap
 ```
-conda install -c conda-forge umap-learn
+conda install -c anaconda-forge umap-learn
 ```
 
 
