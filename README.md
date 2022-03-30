@@ -4,7 +4,10 @@
 Use ChemSpaceMap to map molecular similarity in a chemical space in 2D and 3D with PCA, t-SNE and UMAP.
 
 <p align="center">
-<img align="center" style="width: 200px" src="https://media.giphy.com/media/HdxAYHR9g4Eg6uhCIh/giphy.gif?cid=790b7611e235e1f0e6a299a63507391477b96bb30e99e894&rid=giphy.gif&ct=g" />
+<img align="center" style="width: 400px" src="https://github.com/carineribeirost/ChemSpaceMap/blob/main/resources/images/PCA_2D.png?"/>
+</p>
+<p align="center">
+<img align="center" style="width: 500px" src="https://github.com/carineribeirost/ChemSpaceMap/blob/main/resources/images/PCA_3D.png?"/>
 </p>
 
 ## Molecular Similarity in a Chemical Space
@@ -15,7 +18,7 @@ dataset from ChEMBL.
 By exploring the source code you will see
 
 * How to install the relevant packages 
-* Embed your smiles as (Extended-connectivity fingerprints) ECFPs
+* Embed your SMILES as (extended-connectivity fingerprints) ECFPs
 * Reduce high-dimensional vectors to 2 and 3 dimensions  
 * How to represent chemical space in 2D and 3D
 
@@ -68,6 +71,7 @@ conda install -c conda-forge umap-learn
 ## How to run
 
 * Download the code and unzip it on the desired directory
+
 To run use the following command:
 
 ```
