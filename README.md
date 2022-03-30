@@ -68,6 +68,11 @@ umap
 ```
 conda install -c conda-forge umap-learn
 ```
+
+
+## Requirements
+The file dataset.csv must be in the same directory as ChemMapSpace.py
+
 ## How to run
 
 * Download the code and unzip it on the desired directory
@@ -77,6 +82,7 @@ To run use the following command:
 ```
 python ChemMapSpace.py
 ```
+
 ## Observations
 
 ChemSpaceMap has been elaborated using 
