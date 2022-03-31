@@ -1,7 +1,7 @@
 
 # ChemSpaceMap
 
-Use ChemSpaceMap to map molecular similarity in a chemical space in 2D and 3D with PCA, t-SNE and UMAP.
+Map molecular similarity in a chemical space in 2D and 3D using PCA, t-SNE, and UMAP.
 
 <p align="center">
 <img align="center" style="width: 400px" src="https://github.com/carineribeirost/ChemSpaceMap/blob/main/resources/images/PCA_2D.png?"/>
